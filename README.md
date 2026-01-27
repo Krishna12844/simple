@@ -44,8 +44,23 @@ This repository provides getting started instructions, firmware examples, and co
 
 Following GPIOs of RP2040 interfaced with onboard hardware components,
 
-| RP2040 | Hardware | Function |
-|--------|----------|----------|
+ | RP2040 | Hardware | Function |
+ |--------|----------|----------|
+ |  GPI0/TXD0 | RS485_RX | UART Communication interface |
+  |  GPI0/RXD1 | RS485_TX | UART Communication interface |
+   |  GPIO24 | Relay1 | Relay interface |
+   |  GPIO25 | Relay2 | Relay interface |
+   |  GPIO26 | Relay3 | Relay interface |
+   |  GPIO27 | Relay4 | Relay interface |
+   |  GPIO28 | Relay5 | Relay interface |
+   |  GPIO22 | Relay6 | Relay interface |
+   |  GPIO16 ETH_MISO  | WiZnet_MISO |SPI Communication interface |
+   |  GPIO19 ETH_MOSI | WiZnet_MOSI| SPI Communication interface |
+   | GPIO18 ETH_SCK  | WiZnet_SCK | SPI Communication interface |
+   |  GPIO17 ETH_CSn  | WiZnet_CSn | SPI Communication interface |
+   | GPIO4 | RGB_LED | RGB LED Blink Three Color |
+   |  GPIO2 | BUZZER  | Audible alerts
+ 
 
                                       
 
