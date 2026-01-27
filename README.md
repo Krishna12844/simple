@@ -15,7 +15,7 @@ This repository provides getting started instructions, firmware examples, and co
   * **Ethernet Connectivity via WIZnet W5100S**
       * Stable wired network communication
       * SPI-based Ethernet controller
-  * **6-Channel Relay Output**
+  * **6-Channel Relay Unit**
       * Supports NO / COM / NC connections
       * Suitable for AC/DC load control
   * **RS485 Interface**
