@@ -64,8 +64,11 @@ Following GPIOs of RP2040 interfaced with onboard hardware components,
    ## Getting Started with GatePi LoRaWAN 4CH/8CH
    
    ### Step 1: Boot Firmware installation 
-  
- 
+  Download the first firmware from
+[Here](firmware.uf2)
+
+ ### Step 1: Connect Board With PC/Laptop
+ Press and hold onboard BOOT button and plug dongle into the USB port of your PC/Laptop. Release the BOOT button once dongle is connected to system. Also, make sure jumper setting as shown below,
 
                                       
 
