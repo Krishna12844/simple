@@ -59,7 +59,12 @@ Following GPIOs of RP2040 interfaced with onboard hardware components,
    | GPIO18 ETH_SCK  | WiZnet_SCK | SPI Communication interface |
    |  GPIO17 ETH_CSn  | WiZnet_CSn | SPI Communication interface |
    | GPIO4 | RGB_LED | RGB LED  |
-   |  GPIO2 | BUZZER  | Audible alerts
+   |  GPIO2 | BUZZER  | Audible alerts |
+
+   ## Getting Started with GatePi LoRaWAN 4CH/8CH
+   
+   ### Step 1: Boot Firmware installation 
+  
  
 
                                       
